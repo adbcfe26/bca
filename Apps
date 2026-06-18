@@ -2,150 +2,27 @@
   "bossCinema": {
     "model": "M2007J22C,PKR110",
     "notification": "Số 51 Gia Quất, P. Thượng Thanh , Quận Long Biên , Hà Nội.",
-    "about": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/AD/qc.png",
-    "ad": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/AD/qc.png"
+    "about": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AD/qc.png",
+    "ad": "https://raw.githubusercontent.com/adbcfe26/bca/heads/main/AD/qc.png"
   },
   "apps": [
     {
       "name": "VTVGo TV",
       "versionNameNew": "11.12.30",
       "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
       "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVGoTV/anh.png"
     },
     {
       "name": "Youtube TV",
       "versionNameNew": "2.02.08",
       "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/youtube_tv.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
       "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },
-    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },
-    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Âm nhạc",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Âm nhạc",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },
-    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },
-    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
-    },    {
-      "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
-      "categoty": "Truyền hình trực tuyến",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
-      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/VTVGoTV/anh.png"
-    },
-    {
-      "name": "Youtube TV",
-      "versionNameNew": "2.02.08",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/youtube_tv.png",
-      "linkDownload": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
-      "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
-      "preview": "https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/DinhLap96/bcaebc/refs/heads/main/Youtube/anh1.jpg"
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/anh1.jpg"
     }
   ]
 }

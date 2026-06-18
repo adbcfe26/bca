@@ -69,13 +69,13 @@
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/X-plore/anh.jpg,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/X-plore/anh.webp"
     },
     {
-      "name": "LeanKey Keyboard Pro",
-      "versionNameNew": "22.06.07_vi-dinhlap",
+      "name": "LeanKey Keyboard",
+      "versionNameNew": "6.1.31",
       "categoty": "Bàn phím",
       "rated": "5",
       "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/LeanKeyKeyboard.png",
       "packageName": "com.liskovsoft.leankeyboard",
-      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/LeanKeyKeyboardPro_v22.06.07_vi.apk",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/LeanKeyboard_v6.1.31.apk",
       "note": "Một số lượng lớn các hộp giải mã tín hiệu thiếu bàn phím tốt. Ứng dụng này nhằm khắc phục sự cố như vậy. Đặc trưng: Hỗ trợ kiểu gõ tiếng việt\n- Hỗ trợ điều khiển từ xa đơn giản\n- Có bố cục cho hầu hết mọi ngôn ngữ\n- Hỗ trợ phím tắt bổ sung (ví dụ: menu)\n** Mã nguồn: https://github.com/yuliskov/LeanKeyKeyboard*\nBàn phím đã được thử nghiệm trên Xiaomi Mi Box, Amazon Fire TV, LETV Smart TV, Nexus Player và các thiết bị khác.",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/anh.jpg"
     }

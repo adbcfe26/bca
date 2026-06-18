@@ -3,7 +3,7 @@
     "model": "M2007J22C,PKR110",
     "notification": "Số 51 Gia Quất, P. Thượng Thanh , Quận Long Biên , Hà Nội.",
     "about": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AD/qc.png",
-    "ad": "https://raw.githubusercontent.com/adbcfe26/bca/heads/main/AD/qc.png"
+    "ad": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AD/qc.png"
   },
   "apps": [
     {
@@ -23,6 +23,61 @@
       "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/YoutubeTV_v2.02.08.apk",
       "note": "Ứng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/anh1.jpg"
+    },
+    {
+      "name": "NhacCuaTui",
+      "versionNameNew": "5.4.1",
+      "categoty": "Âm nhạc",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/NhacCuaTui/NhacCuaTuiTV.jpg",
+      "packageName": "vn.nhaccuatui.tv",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/NhacCuaTui/NhacCuaTui-TV_5.4.1.apk",
+      "note": "Tổng quan: NhacCuaTui TV là ứng dụng nghe nhạc và xem video trực tuyến hoàn toàn miễn phí trên TV. Với hàng triệu bài hát, video chọn lọc được cập nhật liên tục, giúp bạn dễ dàng tìm kiếm những bài hát mà mình yêu thích. Thỏa sức lưu trữ kho nhạc riêng không giới hạn, hơn thế nữa bạn có thể tận hưởng âm nhạc mọi lúc mọi nơi với tài khoản nghe nhạc được đồng bộ trên điện thoại, TV và Web.Mọi ý kiến, đóng góp cho ứng dụng, các bạn có thể liên lạc địa chỉ email support@nct.vn, rất mong nhận được nhiều phản hồi của các bạn để ứng dụng NhacCuaTui ngày một tốt hơn.Để biết thêm thông tin về Bảo mật và Điều khoản sử dụng NhacCuaTui, vui lòng truy cập:\nhttp://stc.nct.nixcdn.com/static_v8/generals/Chinh_sach_quyen_SHTT.zip\nhttp://www.nhaccuatui.com/thoa_thuan_su_dung.html",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/NhacCuaTui/anh.webp"
+    },
+    {
+      "name": "Bilibili TV",
+      "versionNameNew": "1.7.1",
+      "rated": "4",
+      "categoty": "Phim truyện",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/BilibiliTV/logo.png",
+      "packageName": "com.bstar.intl.tv",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/BilibiliTV/bilibili_modvip_v1.7.1.apk",
+      "note": "Cộng đồng video Danmaku, hoạt hình giải trí hai chiều",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/BilibiliTV/anh.jpg"
+    },
+    {
+      "name": "Cốc cốc TV Lite",
+      "versionNameNew": "1.6",
+      "categoty": "Trình duyệt web",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/CocCoc/tv_CocCoc_lite.png",
+      "packageName": "com.coccoc.trinhduyet_tvlite",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/CocCoc/CocCocTVLite_1.6.apk",
+      "note": "Trình duyệt cốc cốc cho androidTV",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/CocCoc/anh.png,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/CocCoc/tv_CocCoc_lite.png"
+    },
+    {
+      "name": "X-plore",
+      "versionNameNew": "4.45.03",
+      "categoty": "Tiện ích",
+      "rated": "5",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/X-plore/XploreFileManager.png",
+      "packageName": "com.lonelycatgames.Xplore",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/X-plore/X-plore_4.45.03_ApkDone.apk",
+      "note": "Hướng dẫn sử dụng: www.lonelycatgames.com/docs/xplore Điểm nổi bật: Chế độ xem dạng cây hai ngăn- Root, FTP, SMB1 / SMB2, Sqlite, Zip, Rar, 7zip, DLNA / UPnP explorer, Bản đồ đĩa - xem tệp nào chiếm nhiều dung lượng nhất trên đĩa của bạn - http://bit.ly/xp-disk-map\n- Quyền truy cập bộ nhớ đám mây: Google Drive, OneDrive, Mega.co, Dropbox, Yandex.disk, ОБЛАКО.mail.ru, Webdav và những người khác\n- Truyền tệp SSH (SFTP) và SSH Shell - http://bit.ly/xp-sftp - Máy nghe nhạc,Trình quản lý ứng dụng,USB OTG, Trình xem PDF - Chia sẻ tệp WiFi *** - http://bit.ly/xp-wifi-share - Quản lý tệp từ trình duyệt web trên PC *** - http://bit.ly/xp-wifi-web - Thư mục yêu thích - Trình xem tích hợp cho hình ảnh, âm thanh, văn bản - Trình phát video có phụ đề - Đổi tên hàng loạt- Trình xem hex",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/X-plore/anh.jpg,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/X-plore/anh.webp"
+    },
+    {
+      "name": "LeanKey Keyboard Pro",
+      "versionNameNew": "22.06.07_vi-dinhlap",
+      "categoty": "Bàn phím",
+      "rated": "5",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/LeanKeyKeyboard.png",
+      "packageName": "com.liskovsoft.leankeyboard",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/LeanKeyKeyboardPro_v22.06.07_vi.apk",
+      "note": "Một số lượng lớn các hộp giải mã tín hiệu thiếu bàn phím tốt. Ứng dụng này nhằm khắc phục sự cố như vậy. Đặc trưng: Hỗ trợ kiểu gõ tiếng việt\n- Hỗ trợ điều khiển từ xa đơn giản\n- Có bố cục cho hầu hết mọi ngôn ngữ\n- Hỗ trợ phím tắt bổ sung (ví dụ: menu)\n** Mã nguồn: https://github.com/yuliskov/LeanKeyKeyboard*\nBàn phím đã được thử nghiệm trên Xiaomi Mi Box, Amazon Fire TV, LETV Smart TV, Nexus Player và các thiết bị khác.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/LeanKeyKeyboard/anh.jpg"
     }
   ]
 }

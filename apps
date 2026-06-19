@@ -208,7 +208,6 @@
       "versionNameNew": "5.1.3",
       "categoty": "Tiện ích",
       "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AptoideTV/aptoide_banner.png",
-      "packageName": "cm.aptoidetv.pt",
       "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AptoideTV/AptoideTV_5.1.3.apk",
       "note": "Lưu ý : giọng nói đang hoạt động không được cập nhật Google.\nNếu lỗi do cập nhật Google: Hãy xoá Google TV từ DL Store và tiến hành cài lại.\nNếu lỗi giọng nói ,mà giao diện HomeTV mất logo ở giữa vậy là bản HomeTV bạn đang dùng là bản cố tình sử dụng từ bản bị các shop không uy tín chia sẻ với nhau.\nĐể hỗ trợ giọng nói lại hãy liên hệ tác giả qua thông tin ở phần Giới Thiệu ứng dụng.",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AptoideTV/anh.webp"

@@ -1,0 +1,8 @@
+
+Lưu Ý :
+1 Tạo thư mục với : Tên viết liền không dấu.
+2 Không cần ảnh chất lượng cao đâu, vừa hình thôi tránh lag, mượt hơn.
+3 Tuyệt đối không tải file trên 100mb lên đây.
+4 Tải file trên 100mb vào chỗ này "Releases " - https://github.com/adbcfe26/bca/releases/edit/app .
+5 Mỗi lần cập nhât file 2,3 ứng dụng thôi để tránh 1 lần cập nhật tổng dung lượng quá cao.
+

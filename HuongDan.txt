@@ -1,6 +1,6 @@
 
 Lưu Ý :
-1 Tạo thư mục với : Tên viết liền không dấu.
+1 Tạo thư mục mới, tên file, tên ảnh đơn giản : viết liền không dấu như các mẫu đã có
 2 Không cần ảnh chất lượng cao đâu, vừa hình thôi tránh lag, mượt hơn.
 3 Tuyệt đối không tải file trên 100mb lên đây.
 4 Tải file trên 100mb vào chỗ này "Releases " - https://github.com/adbcfe26/bca/releases/edit/app .

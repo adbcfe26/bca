@@ -69,6 +69,15 @@
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/BilibiliTV/anh.jpg"
     },
     {
+      "name": "VTVPrime",
+      "versionNameNew": "1.11.0",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVPrime/banner.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVPrime/VTVprime_v1.11.0.apk",
+      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVPrime/anh1.png,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVPrime/anh2.png"
+    },
+    {
       "name": "FPT Play",
       "versionNameNew": "7.27.1",
       "categoty": "Xem Truyền hình",
@@ -207,7 +216,7 @@
     {
       "name": "VTVPrime",
       "versionNameNew": "1.11.0",
-      "categoty": "Truyền hình trực tuyến",
+      "categoty": "Xem Truyền hình",
       "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVPrime/banner.png",
       "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VTVPrime/VTVprime_v1.11.0.apk",
       "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
@@ -216,11 +225,11 @@
     {
       "name": "Weather Live",
       "versionNameNew": "6.20.3",
-      "categoty": "Tiện ích",
+      "categoty": "Thời tiết",
       "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/WeatherLive/WeatherLive.png",
       "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/WeatherLive/Weather_Live_pro.apk",
-      "note": "Thời tiết",
-      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/WeatherLive/anh.jpg"
+      "note": "Nhận dự báo thời tiết trực tiếp, radar bão, nhiệt độ hiện tại, cường độ mưa, tốc độ gió, cảnh báo thời tiết khắc nghiệt, cảnh báo tuyết và mưa – tất cả trong một ứng dụng Weather Live. Bạn có thể xem thời tiết địa phương xung quanh mình và trên toàn thế giới chỉ trong nháy mắt.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/WeatherLive/anh.png"
     }
   ]
 }

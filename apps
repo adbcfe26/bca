@@ -67,6 +67,142 @@
       "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/BilibiliTV/bilibili_modvip_v1.7.1.apk",
       "note": "Cộng đồng video Danmaku, hoạt hình giải trí hai chiều",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/BilibiliTV/anh.jpg"
+    },
+    {
+      "name": "FPT Play",
+      "versionNameNew": "7.27.1",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/banner_fptplay.jpg",
+      "linkDownload": "https://github.com/adbcfe26/bca/releases/download/app/FPTPlay_v7.27.1.apk",
+      "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\nỨng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/anh1.png"
+    },
+    {
+      "name": "Galaxy Play",
+      "versionNameNew": "3.11.5",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/GalaxyPlay/GalaxyPlay.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/GalaxyPlay/Galaxy_Play_v3.11.5.apk",
+      "note": "Galaxy Play là Dịch vụ giải trí Online số 1 Việt Nam với thư viện phim bản quyền lớn nhất từ trước đến nay. Bạn sẽ luôn mãn nhãn khi hưởng đặc quyền thưởng thức sớm nhất tại Galaxy Play các phim Việt chiếu rạp có doanh thu đứng đầu mọi thời đại như “Cua Lại Vợ Bầu”, \"Mắt Biếc”, “Gái Già Lắm Chiêu”, \"Chị Trợ Lý Của Anh\"... Bên cạnh đó, hơn 5.000 phim Hollywood bom tấn và phim châu Á đặc sắc sẽ khiến bạn không thể rời khỏi màn hình đầy cuốn hút. Ngoài ra, Galaxy Play còn cung cấp hơn 8.000 giờ phim bộ tuyển chọn và 500 giờ phim thiếu nhi hấp dẫn đầy vui nhộn, giúp cả gia đình bạn có thời gian giải trí thoải mái nhất.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/GalaxyPlay/anh.webp"
+    },
+    {
+      "name": "MyTV",
+      "versionNameNew": "4.67.0_530_20251008",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MyTV/MyTV.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MyTV/MyTV_v4.67.0_530_20251008.apk",
+      "note": "Mod chặn quaảng cáo, không hiện logo mytv\nTHOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…\n- Series phim chiếu rạp mới và hoành tráng nhất update từng ngày.\n- Ăn - ngủ cùng các giải đấu thể thao đỉnh cao trên thế giới.\nChi tiết liên hệ: 18001166; website: www.mytv.com.vn",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MyTV/anh.webp"
+    },
+    {
+      "name": "TV360",
+      "versionNameNew": "4.4",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/TV360/TV360.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/TV360/TV360-AndroidTV_4.4_DL.apk",
+      "note": "Tất cả đều có trên ứng dụng TV360: Gần 200 kênh truyền hình VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương. Trực tiếp bóng đá Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/TV360/anh.jpg"
+    },
+    {
+      "name": "VieON",
+      "versionNameNew": "99.5.6",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VieON/VieON.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VieON/VieON-for-AndroidTV_99.5.6_mod_NoUpdate.apk",
+      "note": "Mod không cập nhật : Xoá app đi trước rồi cài lại\nBạn sẽ không thể rời mắt khỏi VieON với hơn 60,000 giờ giải trí chất lượng cao và nội dung mới luôn được cập nhật hàng ngày:\n- Hơn 140 kênh truyền hình trực tuyến đặc sắc trong và ngoài nước như VTV, HTV, THVL, VTV6 HD, HTV3..., AXN, Cartoon Network, Fox Sport 3, CNN, BBC World News …\n- Phim độc quyền phát sóng cùng lúc với nước sản xuất.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VieON/anh.jpg,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/VieON/anh1.jpg"
+    },
+    {
+      "name": "TizenTube",
+      "versionNameNew": "1.0.8",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/TizenTube.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/TizenTube_v1.0.8.apk",
+      "note": "Nếu cập nhật thất bại vui lòng gỡ ra trước và cài đặt lại !\nTizenTube Android 7, YouTube Leanback UI.\nAdblock, SponsorBlock, DeArrow.\nDisable shorts and more...",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Youtube/anh1.jpg"
+    },
+    {
+      "name": "SmartTube Next(Stable)",
+      "versionNameNew": "Luôn mới nhất",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Stube/SmartTube(Stable).png",
+      "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
+      "note": "SmartTubeNext - Ứng dụng SmartYoutube miễn phí chặn quảng cáo xem video youtube trên Android TV Box.\nCác tính năng phát hành hiện tại:\nChạy trên Android 4.3 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Stube/anh.png"
+    },
+    {
+      "name": "SmartTube Next(Beta)",
+      "versionNameNew": "Luôn mới nhất",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Stube/SmartTube(Beta).png",
+      "linkDownload": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk",
+      "note": "SmartTubeNext - Ứng dụng miễn phí chặn quảng cáo xem video youtube trên Android TV Box.\nCác tính năng phát hành hiện tại:\nChạy trên Android 4.3 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Stube/anh.png"
+    },
+    {
+      "name": "YouTube Kids TV",
+      "versionNameNew": "1.12.02",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/YoutubeKids/Youtubetvkids.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/YoutubeKids/Youtubetvkids.apk",
+      "note": "Trải nghiệm xem video trực tuyến an toàn hơn cho trẻ\nChúng tôi nỗ lực rất nhiều để giữ cho các video trên YouTube Kids luôn có nội dung phù hợp với gia đình. Để bảo vệ những người dùng nhỏ tuổi nhất trên mạng, chúng tôi kết hợp các bộ lọc tự động do nhiều nhóm kỹ sư thiết kế, quy trình xem xét thủ công và ý kiến phản hồi từ chính các bậc cha mẹ. Tuy nhiên, không có hệ thống nào là hoàn hảo và các video không phù hợp có thể vẫn lọt qua hệ thống của chúng tôi.\n- Nếu bị lỗi mạng(thử lại) thì hãy vào Cài đặt/Ứng dụng/Tìm phần quyền Internet và cấp cho youtube để sử dụng.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/YoutubeKids/anh.jpg,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/YoutubeKids/anh1.jpg"
+    },
+    {
+      "name": "iMedia - Xem Tivi HD",
+      "versionNameNew": "25.04.06.B",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/iMedia/iMedia.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/iMedia/iMedia-25.04.06.B_mod.apk",
+      "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào. Ứng dụng cũng không có quảng cáo, mang lại cho người dùng một trải nghiệm sử dụng không bị gián đoạn.iMedia có giao diện đơn giản và dễ sử dụng, với các tính năng như chọn kênh truyền hình hoặc phát thanh yêu thích của bạn, tìm kiếm nhanh chóng",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/iMedia/anh.jpg"
+    },
+    {
+      "name": "Zing mp3",
+      "versionNameNew": "23.09",
+      "categoty": "Âm nhạc",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/ZingMP3/zing_mp3_tv.jpg",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/ZingMP3/ZingMP3_v23.09mod.apk",
+      "note": "Phiên bản Zing MP3 cho Android TV và Android Box\nZing MP3 là ứng dụng nghe nhạc miễn phí hàng đầu Việt Nam. Với kho nhạc chất lượng lớn từ http://mp3.zing.vn, bạn sẽ có trải nghiệm âm nhạc tuyệt vời nhất trên thiết bị di động của mình.\nTính năng nổi bật:\n- Giao diện được thiết kế vừa với màn hình TV",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/ZingMP3/anh.png"
+    },
+    {
+      "name": "Spotify",
+      "versionNameNew": "1.76.1",
+      "categoty": "Âm nhạc",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Spotify/Spotify.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Spotify/SpotifyADS.Removed.apk",
+      "note": "Spotify cho Android TV là ứng dụng Spotify chính thức dành cho Android TV cho phép bạn thưởng thức tất cả âm nhạc có trong ứng dụng này bằng TV của bạn. Bạn có thể nghe hàng nghìn nghệ sĩ từ khắp nơi trên thế giới, thưởng thức danh sách phát được cá nhân hóa của mình và về cơ bản làm những điều tương tự như bạn sẽ làm bằng ứng dụng dành cho thiết bị di động hoặc máy tính để bàn của họ.\nSpotify cho Android TV là một ứng dụng thực sự thú vị cho bất kỳ ai sở hữu Android TV vì bạn có thể thưởng thức những bản nhạc hay nhất một cách thoải mái nhất. Tất cả những gì bạn phải làm là sử dụng điều khiển từ xa để phát danh sách phát yêu thích hoặc tăng hoặc giảm âm lượng.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Spotify/anh.jpg"
+    },
+    {
+      "name": "Airscreen",
+      "versionNameNew": "2.4.1",
+      "categoty": "Tiện ích",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Airscreen/airscreen_banner.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Airscreen/AirScreen_2.4.1_Mod.apk",
+      "note": "• Hoạt động với nhiều nền tảng khác nhau: Tận hưởng chia sẻ phương tiện mượt mà trên các thiết bị iOS 8-16, macOS 10.5-13, Android 5-12, ChromeOS 6-11 và Windows 7-11.\n• Hỗ trợ ứng dụng rộng rãi: Nghe các giai điệu từ iTunes, xem video trên YouTube, duyệt các trang web Safari và Chrome, v.v. Với hàng nghìn ứng dụng tương thích, AirScreen mang đến khả năng giải trí vô tận.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Airscreen/anh.jpg"
+    },
+    {
+      "name": "Aptoide TV",
+      "versionNameNew": "5.1.3",
+      "categoty": "Tiện ích",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AptoideTV/aptoide_banner.png",
+      "packageName": "cm.aptoidetv.pt",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AptoideTV/AptoideTV_5.1.3.apk",
+      "note": "Lưu ý : giọng nói đang hoạt động không được cập nhật Google.\nNếu lỗi do cập nhật Google: Hãy xoá Google TV từ DL Store và tiến hành cài lại.\nNếu lỗi giọng nói ,mà giao diện HomeTV mất logo ở giữa vậy là bản HomeTV bạn đang dùng là bản cố tình sử dụng từ bản bị các shop không uy tín chia sẻ với nhau.\nĐể hỗ trợ giọng nói lại hãy liên hệ tác giả qua thông tin ở phần Giới Thiệu ứng dụng.",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AptoideTV/anh.webp"
+    },
+    {
+      "name": "MX Player Pro",
+      "versionNameNew": "1.68.4",
+      "categoty": "Tiện ích",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MXPlayer/MX_Player_Pro.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MXPlayer/MX_Player_Pro_1.68.4_Mod.apk",
+      "note": "Trình duyệt phát video",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MXPlayer/anh.jpg"
     }
   ]
 }

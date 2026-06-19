@@ -6,3 +6,5 @@ Lưu Ý :
 4 Tải file trên 100mb vào chỗ này "Releases " - https://github.com/adbcfe26/bca/releases/edit/app .
 5 Mỗi lần cập nhât file 2,3 ứng dụng thôi để tránh 1 lần cập nhật tổng dung lượng quá cao.
 
+* Quan trọng : GitHub này chỉ để lưu file, tất cả phải tải thông qua app, không chia sẻ app , link tải xuống để tránh bị những kẻ xấu tố cáo tài khoản GitHub sẽ bị khoá.
+

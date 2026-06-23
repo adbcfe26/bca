@@ -1,6 +1,6 @@
 {
   "bossCinema": {
-    "model": "M2007J22C,PKR110,w",
+    "model": "M2007J22C,PKR110",
     "notification": "Số 51 Gia Quất, P. Thượng Thanh , Quận Long Biên , Hà Nội.",
     "about": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AD/qc.png",
     "ad": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/AD/qc.png"
@@ -220,6 +220,15 @@
       "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MXPlayer/MX_Player_Pro_1.68.4_Mod.apk",
       "note": "Trình duyệt phát video",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MXPlayer/anh.jpg"
+    },
+    {
+      "name": "Phim 4k",
+      "versionNameNew": "2.5.9",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/logo.jpg",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/Phim4K-v2.5.9.apk",
+      "note": "Xem phim",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/anh1.jpg"
     }
   ]
 }

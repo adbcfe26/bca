@@ -222,6 +222,15 @@
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/MXPlayer/anh.jpg"
     },
     {
+      "name": "Downloader AFTV",
+      "versionNameNew": "2.0.3",
+      "categoty": "Tiện ích",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/DownloaderAFTV/logo.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/DownloaderAFTV/Downloader_v2.0.3.apk",
+      "note": "Downloader AFTV",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/DownloaderAFTV/anh1.png"
+    },
+    {
       "name": "Phim 4k",
       "versionNameNew": "2.5.9",
       "categoty": "Giải trí",
@@ -230,15 +239,5 @@
       "note": "Xem phim",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/anh1.jpg"
     }
-    ,
-    {
-    "name": "Downloader by AFTV",
-    "versionNameNew": "2.5.9",
-    "categoty": "Giải trí",
-    "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/logo.png",
-    "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/Downloader.apk",
-    "note": "Xem phim",
-    "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/unnamed(1).png"
-    }
-
-
+  ]
+}

@@ -230,5 +230,15 @@
       "note": "Xem phim",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/anh1.jpg"
     }
-  ]
-}
+    ,
+    {
+    "name": "Downloader by AFTV",
+    "versionNameNew": "2.5.9",
+    "categoty": "Giải trí",
+    "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/logo.png",
+    "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/Downloader.apk",
+    "note": "Xem phim",
+    "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Phim4k/unnamed(1).png"
+    }
+
+

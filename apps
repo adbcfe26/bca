@@ -177,6 +177,15 @@
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/iMedia/anh.jpg"
     },
     {
+      "name": "iMedia - Xem Tivi HD",
+      "versionNameNew": "25.04.06.B",
+      "categoty": "Xem Truyền hình",
+      "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/logo.png",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/getout-25.04.apk",
+      "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào. Ứng dụng cũng không có quảng cáo, mang lại cho người dùng một trải nghiệm sử dụng không bị gián đoạn.iMedia có giao diện đơn giản và dễ sử dụng, với các tính năng như chọn kênh truyền hình hoặc phát thanh yêu thích của bạn, tìm kiếm nhanh chóng",
+      "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/anh1.jpg"
+    },
+    {
       "name": "Zing mp3",
       "versionNameNew": "23.09",
       "categoty": "Âm nhạc",

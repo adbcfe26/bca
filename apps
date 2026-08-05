@@ -91,8 +91,8 @@
       "versionNameNew": "7.32.22",
       "categoty": "Xem Truyền hình",
       "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/banner_fptplay.jpg",
-      "linkDownload": "https://github.com/adbcfe26/bca/releases/download/app/fplay._7.32.22.apk",
-      "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\Ứng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/fplay_7.32.22.apk",
+      "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\nỨng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/FPTPlay/anh1.png"
     },
     {
@@ -181,7 +181,7 @@
       "versionNameNew": "25.04.06.B",
       "categoty": "Xem Truyền hình",
       "logo": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/logo.png",
-      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/getout-25.04.apk",
+      "linkDownload": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/getout_v2.end.apk",
       "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào. Ứng dụng cũng không có quảng cáo, mang lại cho người dùng một trải nghiệm sử dụng không bị gián đoạn.iMedia có giao diện đơn giản và dễ sử dụng, với các tính năng như chọn kênh truyền hình hoặc phát thanh yêu thích của bạn, tìm kiếm nhanh chóng",
       "preview": "https://raw.githubusercontent.com/adbcfe26/bca/refs/heads/main/Getout/anh1.jpg"
     },
